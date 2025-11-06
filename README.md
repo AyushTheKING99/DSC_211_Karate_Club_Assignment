@@ -50,9 +50,3 @@ Just open `karate_club_community_detection.ipynb` in Jupyter and run all cells f
 - numpy
 - matplotlib
 - pandas
-
-## References
-
-Newman, M. E. J. (2006). "Modularity and community structure in networks." PNAS 103(23):8577–8582.
-
-Zachary, W. W. (1977). "An information flow model for conflict and fission in small groups." Journal of Anthropological Research 33(4):452–473.

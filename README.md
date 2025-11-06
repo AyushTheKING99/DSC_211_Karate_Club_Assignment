@@ -1,4 +1,4 @@
-# Karate Club Community Detection
+# Modularity on the Karate Club Graph
 
 **Made by Ayush Siddha**
 

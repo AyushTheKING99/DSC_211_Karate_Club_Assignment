@@ -1,6 +1,7 @@
 # Modularity on the Karate Club Graph
 
 **Made by Ayush Siddha**
+**Roll no.:- IMS24060**
 
 This project analyzes Zachary's Karate Club network using spectral modularity partitioning to detect communities.
 
@@ -50,3 +51,4 @@ Just open `karate_club_community_detection.ipynb` in Jupyter and run all cells f
 - numpy
 - matplotlib
 - pandas
+
